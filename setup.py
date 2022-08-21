@@ -11,7 +11,7 @@ setup(
 from setuptools import setup
 
 def readme():
-    with open('README.md') as f:
+    with open('README.Md') as f:
         README = f.read()
     return README
 
